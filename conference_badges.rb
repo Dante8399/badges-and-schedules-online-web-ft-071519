@@ -28,6 +28,5 @@ def printer
   assign_rooms.each do |rooms|
     puts rooms
   end
-end
 
   
